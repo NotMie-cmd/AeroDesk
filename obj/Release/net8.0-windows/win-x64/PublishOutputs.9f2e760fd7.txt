@@ -1,0 +1,2 @@
+C:\Users\misko\projects\AeroDesk\bin\Release\net8.0-windows\win-x64\publish\AeroDesk.pdb
+C:\Users\misko\projects\AeroDesk\bin\Release\net8.0-windows\win-x64\publish\AeroDesk.exe
